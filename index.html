@@ -3,6 +3,30 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Google Analytics (GA4) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-33T3TYPJ7T"></script>
+   <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+     gtag('config', 'G-XXXXXXXXXX');
+
+     // Track CSR, sponsor, internship and outbound clicks
+     document.addEventListener('click', function (e) {
+       var a = e.target.closest('a');
+       if (!a) return;
+       var href = a.getAttribute('href') || '';
+       if (href.indexOf('mailto:partnerships@') === 0) {
+         gtag('event', 'csr_enquiry_click', { link_text: a.textContent.trim() });
+       } else if (href.indexOf('mailto:') === 0) {
+         gtag('event', 'email_click', { link_text: a.textContent.trim() });
+       } else if (/internship/i.test(href) || /internship/i.test(a.textContent)) {
+         gtag('event', 'internship_apply_click');
+       } else if (/^https?:/.test(href) && href.indexOf(location.hostname) === -1) {
+         gtag('event', 'outbound_click', { link_url: href });
+       }
+     });
+   </script>
 <title>Dr. A.P.J. Abdul Kalam International Foundation | STEM, Space & Youth</title>
 <meta name="description" content="Carrying forward Dr. A.P.J. Abdul Kalam's dream from the House of Kalam, Rameswaram — student satellite missions, STEM and space education, the Kalam Social Forest and global peace." />
 <link rel="canonical" href="https://www.apjabdulkalamfoundation.org/" />
