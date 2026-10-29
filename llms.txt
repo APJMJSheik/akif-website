@@ -1,0 +1,31 @@
+# Dr. A.P.J. Abdul Kalam International Foundation
+
+> Registered public charitable trust founded on 11 October 2015 at the House of Kalam, Rameswaram, Tamil Nadu, India, by the family and close colleagues of Bharat Ratna Dr. A.P.J. Abdul Kalam (11th President of India). It runs student space missions, STEM education, environmental, skilling and peace programmes for young people, with a focus on government schools and underserved communities.
+
+Key facts:
+- Founded: 11 October 2015, House of Kalam, Rameswaram – 623 526, Tamil Nadu, India
+- Chairperson: Dr. A.P.J.M. Nazima Maraikayar; Co-Founders & Trustees: APJMJ Sheik Dawood, APJMJ Sheik Saleem; Secretary: APJM Jainullabudeen
+- Advisors: Y.S. Rajan, Prof. Sulthan Ahmed Ismail, Prof. N. Balakrishnan, Venkatarangan Thirumalai, Sasikumar Gendam
+- Records: 100 femto-satellites launched by ~1,500 students (2021); 150 PICO satellites by 5,000+ students on India's first student hybrid rocket (19 Feb 2023)
+- Contact: info@apjabdulkalamfoundation.org · CSR: partnerships@apjabdulkalamfoundation.org
+
+## Main pages
+
+- [Home](https://www.apjabdulkalamfoundation.org/): Overview of the foundation, impact, programmes, team and contact
+- [About](https://www.apjabdulkalamfoundation.org/#about): History and founding at the House of Kalam
+- [Impact](https://www.apjabdulkalamfoundation.org/#impact): Key numbers, Schedule VII and UN SDG alignment
+- [Programmes](https://www.apjabdulkalamfoundation.org/#projects): Space missions, Social Forest, STEM centres, skilling, libraries
+- [Conferences](https://www.apjabdulkalamfoundation.org/#conferences): Memorial lectures, Dalai Lama peace conference, Bahrain conclave, United Nations
+- [Team](https://www.apjabdulkalamfoundation.org/#team): Leadership and advisors
+- [FAQ](https://www.apjabdulkalamfoundation.org/#faq): Short answers to common questions
+- [CSR partnership](https://www.apjabdulkalamfoundation.org/#partner): How companies can fund programmes
+- [Contact](https://www.apjabdulkalamfoundation.org/#contact): Address and email
+
+## Full detail
+
+- [llms-full.txt](https://www.apjabdulkalamfoundation.org/llms-full.txt): Complete plain-text fact sheet for AI assistants
+
+## Optional
+
+- [Facebook](https://www.facebook.com/APJAbdulkalamfoundationorg)
+- [YouTube](https://www.youtube.com/@apjabdulkalaminternational3171)
